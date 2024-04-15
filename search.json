@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "my_resume.html",
+    "href": "my_resume.html",
+    "title": "My Resume",
+    "section": "",
+    "text": "Currently, I serve as an Associate Professor II at the Technological Institute of Aeronautics (ITA), Brazil. My teaching and research activities span across three distinct academic programs: the Bachelor’s degree in Aeronautical Civil Engineering, the Master’s and Doctoral program in Aeronautical Infrastructure Engineering, and the Professional Master’s in Aviation Safety and Continued Airworthiness.\nMy professional experience encompasses Civil Engineering and Computing, with a focus on Operations Research, Computational Simulation, Airport and Air Traffic Engineering, Geoprocessing, Statistics, Econometrics, and Data Science. I have developed several web systems in R and Python.\nMy key competencies include:\n\nEconometric Analysis using R and Gretl; Advanced Programming in R, specializing in data analysis algorithms and geoprocessing;\nDevelopment of interactive and dynamic web applications in R and Python;\nProficiency in C++ programming;\nData modeling through Machine Learning techniques."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My posts",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 23, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 20, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This blog aims to showcase a bit of my activities as a Professor at ITA and as a consultant in Transportation Systems Planning, as well as some of my experience with data science."
+  }
+]
