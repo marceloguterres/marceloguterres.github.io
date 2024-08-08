@@ -1,0 +1,17 @@
+/* css styles */
+
+/* Estilos para links de download */
+.download-link {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+.download-link:hover {
+    text-decoration: underline;
+}
+
+.download-icon {
+    margin-right: 5px;
+}
+
+/* Adicione outros estilos personalizados aqui */
