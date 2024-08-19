@@ -1,0 +1,89 @@
+---
+title: "Análise de desempenho"
+author: "Marcelo Xavier Guterres"
+date: "4/9/2021"
+output:
+  word_document:
+    toc: yes
+  pdf_document:
+    toc: yes
+    fig_caption: yes
+    number_sections: yes
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+setwd("~/Dropbox/VídeosAulas/relatorio")
+source("get_relatorio.R")
+library(kableExtra)
+```
+
+
+# Introdução
+
+Este relatório irá comparar o desempenho acadêmico dos alunos 
+de escola pública e privada com relação a disciplina de matemática.
+
+O número total de alunos avaliado é  `r get_relatorio()[[5]]`.
+
+A Tabela exibe o conjunto de dados.
+
+```{r tabela_all, echo=FALSE, message=FALSE, warning=FALSE}
+
+kable(get_relatorio()[[1]], format = "latex", booktabs = T, caption = "Notas Matemática", digits = 2 )
+  
+```
+
+
+
+## Escola Pública
+## Escola Privada
+# Análise de Desempenho
+
+O gráfico mostra a dispersão entre as notas de matemática.
+
+```{r grafico_01, echo=FALSE, message=FALSE, warning=FALSE}
+
+get_relatorio()[[2]]
+
+```
+
+A tabela das médias
+
+
+```{r tabela_meds, echo=FALSE, message=FALSE, warning=FALSE}
+
+kable(get_relatorio()[[3]], format = "latex", booktabs = T, caption = "Notas Matemática", digits = 2 )
+  
+```
+
+O valor da correlação entre as nota de matemática é: `r get_relatorio()[[4]]`.
+
+
+
+
+# Análise de Normalidade
+
+O objetivo desta seção é verificar a normalidade da distribuição das notas de 
+matemática 1 e 2. Para tanto a Figura \ref{fig:grafico_hist_mat1} apresenta
+os histogramas.
+
+
+```{r grafico_hist_mat1, echo=FALSE, message=FALSE, warning=FALSE, out.width="50%"}
+
+get_relatorio()[[6]]
+
+
+```
+
+
+Para corroborar com a a visualização dos gráficos são apresentados dois
+teste paramétricos. O nível de significância adotado será de p=0.05.
+
+Para as notas de matemática o teste de médias o p-value é igual  `r get_relatorio()[[12]]`.
+
+
+
+
+
