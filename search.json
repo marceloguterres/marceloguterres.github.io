@@ -21,25 +21,53 @@
     "text": "Welcome to my dedicated page where I showcase the brilliant minds I have the privilege to mentor. Here, you’ll find a diverse group of motivated students from both master’s and doctoral programs, each with unique projects and research interests. Explore their profiles to learn more about their academic journeys and the innovative work they are doing under my guidance."
   },
   {
-    "objectID": "posts/2024-04-27 - 3D/index.html",
-    "href": "posts/2024-04-27 - 3D/index.html",
-    "title": "Plotagem 3D",
+    "objectID": "posts/2024-08-25/index.html",
+    "href": "posts/2024-08-25/index.html",
+    "title": "Material TRA 18",
     "section": "",
-    "text": "Exemplo de uma carcterização 3D.\nVeja mais detalhes no documento HTML: Clique aqui para visualizar"
+    "text": "Foram adicionados os materiais referentes a Semana 01 a 03 do primeiro bimestre de TRA-48. (Link).\nGuterres"
   },
   {
-    "objectID": "posts/2024-08-09/index.html",
-    "href": "posts/2024-08-09/index.html",
-    "title": "Material TRA 48",
+    "objectID": "posts/2024-08-18/index.html",
+    "href": "posts/2024-08-18/index.html",
+    "title": "Material IT 213",
     "section": "",
-    "text": "Foram adicionados os materiais referentes a Semana 01 do primeiro bimestre de TRA-48 (Link).\nGuterres"
+    "text": "Foram adicionados os materiais referentes a Semana 03 do primeiro bimestre de IT-213. (Link).\nGuterres"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "tra48/tra48.html",
+    "href": "tra48/tra48.html",
+    "title": "",
+    "section": "",
+    "text": "Bem-vindo à página da disciplina TRA-48 que envolve conceitos de Pesquisa Operacional e Ciência de Dados (update 2018-08-25).\n\n\n Semana 3\n Semana 2\n Semana 1\n\n\n\n Material sobre Vertiporto\n Projeto\n\n\n\n eBook - Apostila - v.2024-08-25"
+  },
+  {
+    "objectID": "tra48/tra48.html#tra-48",
+    "href": "tra48/tra48.html#tra-48",
+    "title": "",
+    "section": "",
+    "text": "Bem-vindo à página da disciplina TRA-48 que envolve conceitos de Pesquisa Operacional e Ciência de Dados (update 2018-08-25).\n\n\n Semana 3\n Semana 2\n Semana 1\n\n\n\n Material sobre Vertiporto\n Projeto\n\n\n\n eBook - Apostila - v.2024-08-25"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This blog aims to showcase a bit of my activities as a Professor at ITA and as a consultant in Transportation Systems Planning, as well as some of my experience with data science."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My posts",
+    "section": "",
+    "text": "Material TRA 18\n\n\n\n\n\n\nTRA48\n\n\n\n\n\n\n\n\n\nAug 25, 2024\n\n\nTRA-48\n\n\n\n\n\n\n\n\n\n\n\n\nMaterial IT 213\n\n\n\n\n\n\nIT213\n\n\n\n\n\n\n\n\n\nAug 18, 2024\n\n\nIT-213\n\n\n\n\n\n\n\n\n\n\n\n\nMaterial TRA 48\n\n\n\n\n\n\nTRA48\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nTRA-48\n\n\n\n\n\n\n\n\n\n\n\n\nMaterial IT 213\n\n\n\n\n\n\nIT213\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\nIT-213\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 26, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPlotagem 3D\n\n\n\n\n\n\nair transportation\n\n\n\n\n\n\n\n\n\nApr 26, 2024\n\n\nMarcelo Xavier Guterres\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 23, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "courses.html",
@@ -63,46 +91,25 @@
     "text": "Transportation Systems\n\nIntroduction to Transportation\nTransport Economics\nSustainable Transport\n\nUrban Air Mobility\n\nVertiport Design\nAirspace Study\nDemand Study"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My posts",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Material IT 213\n\n\n\n\n\n\nIT213\n\n\n\n\n\n\n\n\n\nAug 18, 2024\n\n\nIT-213\n\n\n\n\n\n\n\n\n\n\n\n\nMaterial TRA 48\n\n\n\n\n\n\nTRA48\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nTRA-48\n\n\n\n\n\n\n\n\n\n\n\n\nMaterial IT 213\n\n\n\n\n\n\nIT213\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\nIT-213\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 26, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPlotagem 3D\n\n\n\n\n\n\nair transportation\n\n\n\n\n\n\n\n\n\nApr 26, 2024\n\n\nMarcelo Xavier Guterres\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 23, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/2024-08-09/index.html",
+    "href": "posts/2024-08-09/index.html",
+    "title": "Material TRA 48",
     "section": "",
-    "text": "This blog aims to showcase a bit of my activities as a Professor at ITA and as a consultant in Transportation Systems Planning, as well as some of my experience with data science."
+    "text": "Foram adicionados os materiais referentes a Semana 01 do primeiro bimestre de TRA-48 (Link).\nGuterres"
   },
   {
-    "objectID": "tra48/tra48.html",
-    "href": "tra48/tra48.html",
-    "title": "",
+    "objectID": "posts/2024-04-27 - 3D/index.html",
+    "href": "posts/2024-04-27 - 3D/index.html",
+    "title": "Plotagem 3D",
     "section": "",
-    "text": "Bem-vindo à página da disciplina TRA-48 que envolve conceitos de Pesquisa Operacional e Ciência de Dados.\n\n\n07/08/2013 - Semana 01\n Projeto\n\n\n\n eBook - Apostila - v.2024-08-09"
-  },
-  {
-    "objectID": "tra48/tra48.html#tra-48",
-    "href": "tra48/tra48.html#tra-48",
-    "title": "",
-    "section": "",
-    "text": "Bem-vindo à página da disciplina TRA-48 que envolve conceitos de Pesquisa Operacional e Ciência de Dados.\n\n\n07/08/2013 - Semana 01\n Projeto\n\n\n\n eBook - Apostila - v.2024-08-09"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/2024-08-18/index.html",
-    "href": "posts/2024-08-18/index.html",
-    "title": "Material IT 213",
-    "section": "",
-    "text": "Foram adicionados os materiais referentes a Semana 03 do primeiro bimestre de IT-213. (Link).\nGuterres"
+    "text": "Exemplo de uma carcterização 3D.\nVeja mais detalhes no documento HTML: Clique aqui para visualizar"
   },
   {
     "objectID": "posts/2024-08-08/index.html",
